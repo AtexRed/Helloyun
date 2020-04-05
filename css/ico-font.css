@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../ico-fonts/icomoon.eot?d7o9ne');
+  src:  url('../ico-fonts/icomoon.eot?d7o9ne#iefix') format('embedded-opentype'),
+    url('../ico-fonts/icomoon.ttf?d7o9ne') format('truetype'),
+    url('../ico-fonts/icomoon.woff?d7o9ne') format('woff'),
+    url('../ico-fonts/icomoon.svg?d7o9ne#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-email_icon:before {
+  content: "\e900";
+}
+.icon-quotes:before {
+  content: "\e901";
+  color: #f7654a;
+}
+.icon-address_icon:before {
+  content: "\e902";
+  color: #f7654a;
+}
+.icon-email-contacts_icon:before {
+  content: "\e903";
+  color: #f7654a;
+}
+.icon-telephone_icon:before {
+  content: "\e904";
+  color: #f7654a;
+}
+.icon-time_icon:before {
+  content: "\e905";
+  color: #f7654a;
+}
+.icon-candle_icon:before {
+  content: "\e906";
+  color: #f7654a;
+}
+.icon-ghost_icon:before {
+  content: "\e907";
+  color: #f7654a;
+}
+.icon-monster_icon:before {
+  content: "\e908";
+  color: #f7654a;
+}
+.icon-poison_icon:before {
+  content: "\e909";
+  color: #f7654a;
+}
+.icon-pumpkin_icon:before {
+  content: "\e90a";
+  color: #f7654a;
+}
+.icon-wand_icon:before {
+  content: "\e90b";
+  color: #f7654a;
+}
